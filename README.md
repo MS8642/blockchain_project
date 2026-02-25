@@ -7,3 +7,5 @@ Blockchain project
 
 # Blockchain is immutable 
 # Data is bundled into "blocks," and #once a block is full, it is linked to #the previous one in a "chain," making #the record nearly impossible to alter
+
+# It will involve JSON file format
