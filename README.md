@@ -9,3 +9,5 @@ Blockchain project
 # Data is bundled into "blocks," and #once a block is full, it is linked to #the previous one in a "chain," making #the record nearly impossible to alter
 
 # It will involve JSON file format
+# So it will be useful to start from there
+# JSON is a specific file formst that can carry informatio  better
