@@ -11,3 +11,5 @@ Blockchain project
 # It will involve JSON file format
 # So it will be useful to start from there
 # JSON is a specific file formst that can carry informatio  better
+
+# JSON is a specific format, need yo remember my cybersecurity proj.
