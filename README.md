@@ -13,3 +13,4 @@ Blockchain project
 # JSON is a specific file formst that can carry informatio  better
 
 # JSON is a specific format, need yo remember my cybersecurity proj.
+#A blockchain is considered "immutable" because, while data can beadded (appended), existing data cannot be modified or deleted without invalidating the entire cryptographic chain.
