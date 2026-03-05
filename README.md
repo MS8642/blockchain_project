@@ -14,4 +14,4 @@ Blockchain project
 
 # JSON is a specific format, need yo remember my cybersecurity proj.
 #A blockchain is considered "immutable" because, while data can beadded (appended), existing data cannot be modified or deleted without invalidating the entire cryptographic chain.
-# Perhaps as a test I can start from excel
+# Perhaps as a test I can start from excel and then modify it
